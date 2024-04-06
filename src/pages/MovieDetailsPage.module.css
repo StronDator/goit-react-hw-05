@@ -1,0 +1,8 @@
+.infoContainer {
+  display: flex;
+  gap: 12px;
+}
+
+.poster {
+  width: 20vw;
+}
